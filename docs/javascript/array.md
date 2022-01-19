@@ -15,7 +15,7 @@ arr.forEach((item, index, arr) {
 ```javascript
 newArr = array.slice(start, end)
 ```
-###splice
+### splice
 ```javascript
 array.splice(index, howmany, item1, ....., itemX)
 ```
