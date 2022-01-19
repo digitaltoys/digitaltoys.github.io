@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Buttons
-parent: Javascript
+title: Array
+parent: javascript
 nav_order: 1
 ---
-## array
 
 arr.forEach((item, index, arr) {
   arr[index] = item * 10;
