@@ -1,4 +1,9 @@
-# Javascript
+---
+layout: default
+title: Buttons
+parent: Javascript
+nav_order: 1
+---
 ## array
 
 arr.forEach((item, index, arr) {
