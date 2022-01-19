@@ -1,5 +1,6 @@
 # 위경도 거리로 쿼리
 
+```sql
 -- KM : 6371
 -- MILES : 3959
 
@@ -17,3 +18,4 @@ FROM toilets
 HAVING distance < 2
 ORDER BY distance
 LIMIT 0 , 20;
+```
