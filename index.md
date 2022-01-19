@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-haschild: true
+has_children: true
 ---
 # Home
 
